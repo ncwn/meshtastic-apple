@@ -1,4 +1,4 @@
-# meshtastic-apple (v4 fork)
+# meshtastic-apple (SELFCIUS fork)
 
 > This is a fork of `meshtastic/Meshtastic-Apple` on the `selfcius/main` branch.
 > When merging upstream releases, consult the V4 Modifications section
